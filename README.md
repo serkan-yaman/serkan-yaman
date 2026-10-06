@@ -33,6 +33,9 @@ I teach the courses I publish here — every repo below is classroom-tested mate
 | [firewall-kurallari](https://github.com/serkan-yaman/firewall-kurallari) | iptables baseline policy examples (SYA119) |
 | [suricata-kurallari](https://github.com/serkan-yaman/suricata-kurallari) | Starter Suricata signatures: SQLi, XSS, scan detection (SYA119) |
 | [kripto-atolyesi](https://github.com/serkan-yaman/kripto-atolyesi) | Classical ciphers + hash demos, stdlib only (SYA203) |
+| [password-auditor](https://github.com/serkan-yaman/password-auditor) | Entropy-based password strength meter (SYA203) |
+| [authlog-analyzer](https://github.com/serkan-yaman/authlog-analyzer) | SSH brute-force finder for auth.log (SYA119) |
+| [url-threat-checker](https://github.com/serkan-yaman/url-threat-checker) | Phishing URL heuristics checker (SYA201) |
 
 ---
 
