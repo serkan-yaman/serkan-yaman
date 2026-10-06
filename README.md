@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Serkan Yaman
 
-🎓 Cybersecurity lecturer at **Istanbul Aydin University** · 🌐 [serkanyaman.net](https://serkanyaman.net) · 📍 Istanbul
+🎓 Vice Head of Cybersecurity Program at **Istanbul Aydin University** · 🌐 [serkanyaman.net](https://serkanyaman.net) · 📍 Istanbul
 
 ![Profile Views](https://komarev.com/ghpvc/?username=serkan-yaman&color=00C853&style=flat)
 ![Followers](https://img.shields.io/github/followers/serkan-yaman?style=flat&color=00C853)
@@ -62,4 +62,4 @@ I teach the courses I publish here — every repo below is classroom-tested mate
 ## 🤝 Connect
 
 - 🌐 Website: [serkanyaman.net](https://serkanyaman.net)
-- 💼 LinkedIn: *(linkini verirsen rozet ekleyeyim)*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-yaman/)
